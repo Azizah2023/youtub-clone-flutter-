@@ -6,5 +6,8 @@ Sample flutter functionally application using Getx https://pub.dev/packages/get,
 - search feature .
 
 - comment feature connected with user .
+- Here is demo video
+https://www.youtube.com/watch?v=ncYpJvlirkI
+
 
 
