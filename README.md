@@ -1,13 +1,6 @@
-# youTube-clone
-Sample flutter functionally application using Getx https://pub.dev/packages/get, The application Support
+# YutubClone-Getx-Flutter
 
-- signup login logout for user .
-
-- search feature .
-
-- comment feature connected with user .
-- Here is demo video
-https://www.youtube.com/watch?v=ncYpJvlirkI
-
-
-
+This project is a sample clone of youTube Application.
+_ support search with youTube API .
+_ support login Systeme for multiple users with firebase DB.
+_ support add Commints for each users and the commint stored in firebase DB.
